@@ -32,7 +32,7 @@ colors = {
     "S": "🟧",  # Piel
     "Y": "🟨",  # Traje
     "R": "🟥",  # Guantes y botas
-    "G": "🟫",  # Cremallera y hebilla edit comment
+    "G": "🟫",  # Cremallera y hebilla edit comment - edit 2 to prove correct branch target webhook
 }
 
 for row in pixels:
