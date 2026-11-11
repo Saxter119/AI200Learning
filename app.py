@@ -32,7 +32,7 @@ colors = {
     "S": "🟧",  # Piel
     "Y": "🟨",  # Traje
     "R": "🟥",  # Guantes y botas
-    "G": "🟫",  # Cremallera y hebilla
+    "G": "🟫",  # Cremallera y hebilla edit comment
 }
 
 for row in pixels:
