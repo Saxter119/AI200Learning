@@ -32,7 +32,7 @@ colors = {
     "S": "🟧",  # Piel
     "Y": "🟨",  # Traje
     "R": "🟥",  # Guantes y botas
-    "G": "🟫",  # Cremallera y hebilla edit comment - edit 2 to prove correct branch target webhook
+    "G": "🟫",  # Cremallera y hebilla edit comment - edit 2 to prove correct branch target webhook - Edited 3, DockerFile Instead of Dockerfile
 }
 
 for row in pixels:
