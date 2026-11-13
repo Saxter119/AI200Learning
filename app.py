@@ -34,7 +34,7 @@ pixels = """
 """.strip().splitlines()
 
 colors = {
-    ".": "⬜",  # Fondo, capa y ojos
+    ".": "🌫️",  # Fondo, capa y ojos
     "K": "⬛",  # Contornos
     "S": "🟧",  # Piel
     "Y": "🟨",  # Traje
